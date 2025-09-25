@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/business-suite-pro-39573-39583/mobile_frontend/.dart_tool/flutter_build/cfe84392b6899c2ecc79d4b15d09b108/native_assets.json: 
